@@ -13,7 +13,7 @@ require "zurb-foundation"
 ###
 # Page options, layouts, aliases and proxies
 ###
-
+Time.zone = 'US/Mountain'
 activate :blog do |blog|
   # blog.prefix = "blog"
   # blog.permalink = ":year/:month/:day/:title.html"
