@@ -1,7 +1,6 @@
 ---
 title: Passionate Programmer
-date: 2013-02-01 13:19 -07:00
-tags:
+date: 2013-02-02 13:19 -07:00
 ---
 
 

@@ -1,8 +1,6 @@
 ---
----
 title: Passionate Programmer Final Review
 date: 2013-02-10 13:19 -07:00
-tags:
 ---
 
 
