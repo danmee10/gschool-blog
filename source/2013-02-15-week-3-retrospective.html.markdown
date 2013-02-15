@@ -3,25 +3,6 @@ title: Week 3- Retrospective
 date: 2013-02-15 13:19 -07:00
 ---
 
-<!-- SalesEngine
-What’s a technique that you’ve used in the project that was once totally opaque but now is clear?
-
-What’s something that’s still confusing to you? Why?
-
-How do you feel about testing with MiniTest? What about it makes your process harder? Easier?
-
-Is working in a pair harder or easier than being by yourself? Do you feel like you’d be farther ahead or behind if you were on your own? Can nine women make a baby in one month?
-
-
-Becoming a Developer
-It’s been a long three weeks. Do you feel like a developer yet?
-
-You have 21 weeks to go. What are you most excited about?
-
-How has the class environment matched or differed from your expectations?
-
-What resources are you relying on when you need support, and why? -->
-
 The last three weeks have been spent grinding out a basic understanding of how programs are structured and the fundamentals of Ruby code and syntax.  We have had three main projects, two of them were team based and one was a solo venture.  The third of these, the Sales-Engine, also our current project, is quite a step up from the last two in size and scope of included concepts.
 
 In the first two projects I found myself writing code to solve a seriese of related problems, without having to give an overwhelming amount of thought to the big picture along the way (although my code would have benefitted a great deal from this).  In the Sales-Engine project, the shear size and complexity of the problem, has been forcing me to expand my understanding of the small pieces and how they fit together, to how they function as a whole.
