@@ -5,7 +5,7 @@ date: 2013-02-08 13:19 -07:00
 
 
 
-The Event Reporter (ER) project built on the basic date exctaction and cleansing skills that we exercised in the Event Manager project.  The ER program is an interface for a client to access data in a .CSV file based on several criteria.  The interface allows the client to search the data based on zipcode, first name, last name, city or state; it allows the client to sort that data, to print it out or to save it to another file which would allow them to further sort ot search their results.
+The Event Reporter (ER) project built on the basic date exctaction and cleansing skills that we exercised in the Event Manager project.  The ER program is an interface for a client to access data in a .CSV file based on several criteria.  The interface allows the client to search the data based on zipcode, first name, last name, city or state; it allows the client to sort that data, to print it out or to save it to another file which they could then run the same program on.
 
 My work patterns for this project were quite unusual, as I was encumbered by an illness which restrited my available work hours and clowded the hours I did work.  That said, I began working on Monday evening, at which point I simply reviewed the project and pondered how I might approach it based what tools I could reimplement from our last two projects.  Tuesday and Wednesday, I worked on the project from the end of class time until I went to bed.
 
