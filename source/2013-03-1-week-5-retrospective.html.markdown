@@ -1,7 +1,8 @@
 ---
 title: Week 5- Retrospective
-date: 2013-03-01 13:19 -07:00
+date: 2013-03-1 13:19 -07:00
 ---
+
 
 So ends the fifth week of this school of g's.  We are currently one week (actually 2 full days) into our first project that lies in the realm of web development, and so far the somewhat daunting task of mastering the languages necessary for interacting with our database and building a user interface, has not diminished my excitement.  The largest obstacle at this point has been getting used to interacting with data that is not immediatly visible in the project's file structure.  The SQL language, Sequel's 'simplification' of that language, and the two different databases we were introduced to this week definitely clouded my idea of what our data is and where it is located; this conceptual jump has been difficult to make with the added responsibility of comming up with a project stragegy that is largely dependent on these concepts.
 
