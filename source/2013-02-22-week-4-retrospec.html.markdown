@@ -1,3 +1,13 @@
+<!-- ```ruby
+set :markdown_engine, :redcarpet
+set :markdown, :fenced_code_blocks => true, :smartypants => true
+
+activate :syntax,
+         :linenos => 'inline',
+         :anchorlinenos => true,
+         :linenostart => 2
+``` -->
+
 ---
 title: Week 4- Retrospective
 date: 2013-02-22 13:19 -07:00
