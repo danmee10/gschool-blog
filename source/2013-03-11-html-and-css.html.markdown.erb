@@ -1,0 +1,73 @@
+---
+title: html & css
+date: 2013-03-11 13:19 -07:00
+---
+
+So far HTML & CSS has been a plesent, straightforward read, with no major conceptual obstacles to overcome.  The small, descriptive paragraphs of text sufficiently describe the images and diagrams, without going into more detail than is needed to implement the technique being discussed.  I imagine that I will come back to these first seven chapters more than a few times in the comming weeks to use them as a quick refrence.
+
+
+<hr />
+Below are examples of some of the topics covered...
+
+
+<br />
+<html>
+  <body>
+    <form action="/2013/03/11/html-and-css.html/:something" method="get">
+      <p>Write stuff!
+        <br />
+        <input type="text" name="something" />
+      </p>
+      <p> What's you're favorite color?
+        <br />
+        <input type="radio" name="color" value="blue" checked="checked" /> blue
+        <input type="radio" name="color" value="red"/> red
+        <input type="radio" name="color" value="green" /> green
+      </p>
+      <p> Do you like:
+        <br />
+        <input type="checkbox" name="food" value="cookies" /> cookies
+        <input type="checkbox" name="food" value="candy" /> candy
+        <input type="checkbox" name="food" value="icecream" /> icecream
+      </p>
+    </form>
+  </body>
+</html>
+<hr />
+and further below you can see the code behind this...
+
+```html
+<html>
+  <body>
+    <form action="/2013/03/11/html-and-css.html/:something" method="get">
+      <p>Write stuff!
+        <br />
+        <input type="text" name="something" />
+      </p>
+      <p> What's you're favorite color?
+        <br />
+        <input type="radio" name="color" value="blue" checked="checked" /> blue
+        <input type="radio" name="color" value="red"/> red
+        <input type="radio" name="color" value="green" /> green
+      </p>
+      <p> Do you like:
+        <br />
+        <input type="checkbox" name="food" value="cookies" /> cookies
+        <input type="checkbox" name="food" value="candy" /> candy
+        <input type="checkbox" name="food" value="icecream" /> icecream
+      </p>
+    </form>
+  </body>
+</html>
+```
+<hr />
+<br />
+
+
+
+Unfortunately, at the moment, I can not figure out how to use the information these forms collect on the current page.  The Traffic Spy project, where we implemented some simple forms, relied on sinatra and multiple .erb views.  The pages that make up this blog are in a .html.markdown format, and they don't seem to be responding to erb.  I am sure that getting them to respond isn't a terribly complicated process, but I haven't managed to find any information on it yet.  I considered adding an additonal file structure to mimic what I used in Traffic Spy, but it seemed like a lot of work considering it is probably not the correct way to go about solving this issue.  So, this morning I push this current, unfinished blog post to Heroku in defeat, but only in hopes to someday return and implement the most glorious html form the internet has ever seen.
+
+
+
+
+

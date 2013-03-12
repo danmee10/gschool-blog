@@ -135,4 +135,5 @@ DEPENDENCIES
   pygments.rb
   rack-contrib
   redcarpet
+  sinatra
   zurb-foundation
