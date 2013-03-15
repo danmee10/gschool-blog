@@ -13,7 +13,7 @@ Below are examples of some of the topics covered...
 <br />
 <html>
   <body>
-    <form action="/2013/03/11/html-and-css.html/:something" method="get">
+    <form action="/2013/03/11/html-and-css.html" method="get">
       <p>Write stuff!
         <br />
         <input type="text" name="something" />
@@ -30,6 +30,9 @@ Below are examples of some of the topics covered...
         <input type="checkbox" name="food" value="candy" /> candy
         <input type="checkbox" name="food" value="icecream" /> icecream
       </p>
+      <%unless @color == nil || @something == nil%>
+        <%="you are a #{@color} #{@something}"%>
+      <%end%>
     </form>
   </body>
 </html>
