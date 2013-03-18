@@ -48,7 +48,11 @@ h6,
 .top-nav,
 .nav-bar,
 .sub-nav {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Georgia', serif;
+}
+h2.title a {
+ /* text-shadow: -1px -2px #FFFFFF;
+  color: #000000;*/
 }
 .bottom-border {
   border-bottom: 4px solid #a2a2a2;
@@ -80,6 +84,16 @@ div.panel {
   background: -moz-linear-gradient(top, #FFFFFF 10%, #8B0000 90%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #000080), color-stop(0%, #FFFFFF));
   background: -o-linear-gradient(top, #8B0000 90%, #FFFFFF 10%);
+}
+div.change_page {
+  background-color: #000000;
+}
+div .page_number {
+  text-align: right;
+  background-color: #000000
+/*  -moz-box-shadow: 5px 5px 5px 5px #FFFFFF;
+  -webkit-box-shadow: 5px 5px 5px 5px #FFFFFF;
+  box-shadow:  5px 5px 5px 5px #FFFFFF;*/
 }
 div.highlight {
   background-color: #000000;

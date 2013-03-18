@@ -13,11 +13,11 @@
     / Included CSS Files
     = stylesheet_link_tag "app", "theme"
     = javascript_include_tag "foundation/modernizr.foundation"
-    
+
   %body{class: page_classes}
     .row
       .twelve.columns
-        %h2
+        %h2.title
           %a{href: "/"}= data.site.title
         %hr
     .row
@@ -26,7 +26,7 @@
       / Application Javascript, safe to override
       = javascript_include_tag "app"
       %aside.four.columns
-        .panel
+        .page_number
           - if paginate
             %p
               Page
@@ -34,10 +34,10 @@
               of
               = num_pages
         %dl.tabs
-          %dd.active
-            %a{href: "#recent"} Recent Articles
-          %dd
-            %a{href: "#tags"} Tags
+        /   %dd.active
+        /     %a{href: "#recent"} Recent Articles
+        /   %dd
+        /     %a{href: "#tags"} Tags
         %ul.tabs-content
           %li#recentTab.active
             %h4 Recent Articles
