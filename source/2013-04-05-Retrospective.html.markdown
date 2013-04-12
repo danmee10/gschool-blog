@@ -1,5 +1,5 @@
 ---
-title: gSchool - Week 0
+title: Store Engine Wrap-up
 date: 2013-04-05 13:19 -07:00
 ---
 

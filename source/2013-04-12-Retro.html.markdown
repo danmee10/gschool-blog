@@ -1,0 +1,14 @@
+---
+title: Don't make me think
+date: 2013-04-12 13:19 -07:00
+---
+
+This week I had my first two meetings with my mentor, Mark Tabler.  Mark is a Hungry Academy grad, a rails developer for Living Social, and an artist.  Our first meetings have been mostly introductional; Mark did look at some of the code I've written to this point and was able to give me some advice on where weak spots are.  I was definitely excited to hear that he had been one of the hungry academy students, since that gives him an extremely valuable perspective on where I'm at that no one outside of that group of people could have.
+
+Our first week with SoSE has gone quite smoothly.  It's clear that this project will be exhausting and time consuming (7am-11pm wednesday, and 7am - 10pm thursday), but I'm confident that our group will manage to produce a quality product.  We haven't had any communication issues so far; it looks like we're all starting to get comfortable with git (it's nice to have worked with something consistently throughout the last two and a half months).
+
+Working with someone else's code, has been a bit of a struggle.  Our base code definitely implements some more advanced features and methods that have been difficult to wrap my head around while trying to get the new features we need up and running.  That said, it is kind of neat to be able to see how someone else solved the problems that I was working with two weeks ago.
+
+Right now, I sort of feel like the low man on the totem pole, when it comes to skill level in the team.  I find myself taking sort of a supporting role, leaving most of the overall direction of and strategy to my teammates, and chiming in when I see a clear problem or can offer a specific solution to something we are all struggling with.
+
+Rails is becoming more and more clear to me as we spend more time with it.  The areas that still seem the most foggy to me are the interactions between the routes and the rest of the program, and how forms send and receive information.  I guess the transfer of information across all the different files and folders in general, with all the different formats and helper gems, has also gotten me a bit lost, but it feels like one of those things that isn't as confusing conceptually as it is just a large amount of information.  So, it's not so much that I think it will be a terribly difficult puzzle to solve, but that I'm only working with like half the pieces.
