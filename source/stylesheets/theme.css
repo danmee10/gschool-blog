@@ -81,19 +81,18 @@ a.logo:hover {
 }
 div.panel {
   background: #efefef;
-  background: -moz-linear-gradient(top, #FFFFFF 10%, #8B0000 90%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #000080), color-stop(0%, #FFFFFF));
-  background: -o-linear-gradient(top, #8B0000 90%, #FFFFFF 10%);
+  /*background: -moz-linear-gradient(top, #FFFFFF 10%, #8B0000 90%);*/
+  /*background: -webkit-gradient(linear, left top, left bottom, from(rgba(50,50,50,0.8)), to(rgba(80,80,80,0.2)), color-stop(.5,#333333);*/
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0),  rgba(0, 0, 128, 1));
+  /*background: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #000080), color-stop(0%, #FFFFFF));*/
+  /*background: -o-linear-gradient(top, #8B0000 90%, #FFFFFF 10%);*/
 }
 div.change_page {
   background-color: #000000;
 }
-div .page_number {
+div.page_number {
   text-align: right;
   background-color: #000000
-/*  -moz-box-shadow: 5px 5px 5px 5px #FFFFFF;
-  -webkit-box-shadow: 5px 5px 5px 5px #FFFFFF;
-  box-shadow:  5px 5px 5px 5px #FFFFFF;*/
 }
 div.highlight {
   background-color: #000000;

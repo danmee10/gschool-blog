@@ -33,6 +33,18 @@
               = page_number
               of
               = num_pages
+              .row
+              .six.columns
+                - if prev_page
+                  .change_page
+                    %p
+                      = link_to 'Previous page', prev_page
+
+              .six.columns
+                - if paginate
+                  - if next_page
+                    .change_page
+                      %p= link_to 'Next page', next_page
         %dl.tabs
         /   %dd.active
         /     %a{href: "#recent"} Recent Articles
