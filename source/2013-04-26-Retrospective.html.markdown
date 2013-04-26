@@ -1,6 +1,6 @@
 ---
 title: Retrospective
-date: 2013-04-19 13:19 -07:00
+date: 2013-04-26 13:19 -07:00
 ---
 
 So, with the issues that plagued the last project fresh on our minds, I think the whole class approached this extension with perfection as the main goal.  We ended up spending the first two days fixing the 100+ broken tests and getting the coverage up from 50% to just over 80%.  It does feel good having that stability under our feet as we push forward with the new features that have been assigned to us.
