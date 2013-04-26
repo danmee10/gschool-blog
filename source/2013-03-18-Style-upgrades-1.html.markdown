@@ -3,11 +3,6 @@ title: Style Upgrades Round 1
 date: 2013-03-18 13:19 -07:00
 ---
 
-Explain the motivations of why you used the technique(s)
-Include before and after code samples to demonstrate the changes
-Use cropped screen shots to demonstrate the before-and-after effects
-Explore at least two techniques from the book so far
-
 Having read the first 14 chapters of HTML & CSS, we have been tasked with applying a few of these concepts to our blogs.
 
 My first action was to adjust the "next page" link at the bottom of the page.  As you can see from the before shot, the default blue makes it difficult to see the text.
