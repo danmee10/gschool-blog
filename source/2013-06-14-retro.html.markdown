@@ -1,0 +1,10 @@
+---
+title: Retrospective
+date: 2013-06-14 13:19 -07:00
+---
+
+This week's been a little crazy, with the new project and a lightning talk, but so far I think the services project will be manageable.  It was definitely fun working on my own on the personal project, but I am excited to see what I can learn from working with a team again.
+
+I haven't had a chance to really dig into the code that I reference on my resume yet, which is a bit upsetting, but not unexpected.  My hope is that I'll have a chance to explain myself to anyone who looks at it as is, and that I have some time this weekend to clean it up.
+
+I haven't actually had a chance to do any job hunting on my own yet.  Again, my hope is that this weekend will be a good opportunity to make my first steps in that direction.
